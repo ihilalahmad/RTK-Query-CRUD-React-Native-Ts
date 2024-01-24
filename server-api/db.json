@@ -1,0 +1,34 @@
+{
+  "animals": [
+    {
+      "title": "White Panda",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+      "thumbnail": "https://c02.purpledshub.com/uploads/sites/62/2023/01/Giant-panda-c2c51b8.jpg?w=1029&webp=1",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Cat",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+      "thumbnail": "https://d3544la1u8djza.cloudfront.net/APHI/Blog/2016/10_October/persians/Persian+Cat+Facts+History+Personality+and+Care+_+ASPCA+Pet+Health+Insurance+_+white+Persian+cat+resting+on+a+brown+sofa-min.jpg"
+    },
+    {
+      "title": "Penguin Updated",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+      "thumbnail": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/362635561/900",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "title": "White Tiger",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+      "thumbnail": "https://external-preview.redd.it/E98M8c-x1Wtol7c78PnJoi82hUeTnanN2ddTPSSQ-mU.jpg?auto=webp&s=4bb5ed1d37250c398aae2f51cd1abd77edfac353"
+    },
+    {
+      "id": "5",
+      "title": "Husky",
+      "description": "This is a dog of Husky bread, I added it using RTK query from my application",
+      "thumbnail": "https://www.treehugger.com/thmb/M002yc2evjn-i6gRCC6DSqPX1_E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/portrait-of-siberian-husky-on-snow-covered-field-1321125441-caba351f6be24932af51c65e1fbb28d9.jpg"
+    }
+  ]
+}
